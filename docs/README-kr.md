@@ -4,6 +4,7 @@
 
 - FQS는 대규모 트래픽을 처리할 수 있는 대기열 기능을 제공하는 B2B SaaS 플랫폼입니다.
 - "Flexible Queue Service"라는 이름은 대기열 서비스를 사용하는 개발자들에게 유연한 대기열 관리를 제공하는 목표를 반영합니다.
+- [PPT](https://www.canva.com/design/DAGU1Sn5DZs/qyF85ie-T7Vt-qavJ2KYDA/edit?utm_content=DAGU1Sn5DZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🏃‍♂️‍➡️목표
 
@@ -19,10 +20,12 @@
 
 ![service-range.png](images/service-range.png)
 ![range-detail.png](images/range-detail.png)
+![dynamic-instance-creation.png](docs/images/dynamic-instance-creation.png)
 
 - 대기열 관리를 위한 부하를 처리합니다.
 - 사용이 간편한 라이브러리를 제공합니다.
 - 루트 권한과 하위 권한 계정을 사용하여 보다 세부적인 관리가 가능합니다.
+- FQS 는 동시간 운영되고 있는 타 대기열 서비스 간 독립적인 환경을 제공하기 위해 대기열 별로 별도의 인스턴스를 생성해 제공합니다. 
 
 ## 🧑‍🏫사용 방법
 
