@@ -13,6 +13,7 @@
 - It takes on the load required for queue management.
 - It provides a library for easy usage.
 - Using root privileges and subordinate privilege accounts allows for more detailed management.
+- It provides separate instances for each queue to offer an independent environment between concurrently operating queue services.
 
 ## 🧑‍🏫 instruction
 
