@@ -1,7 +1,7 @@
 ## 🐥 [FQS](https://github.com/kimgunwooo/FQS-flexible-queue-service)
 - FQS is a B2B SaaS platform that provides queue functionality capable of handling large-scale traffic.
 - The name *"Flexible Queue Service"* reflects its goal of offering flexible queue management to developers who utilize queue services. 
-- [The Korean version](https://github.com/kimgunwooo/FQS-flexible-queue-service/tree/feat/readme/docs/README-kr.md)
+- [The Korean version](https://github.com/j0minsu/FQS-flexible-queue-service/tree/feat/readme/docs/README-kr.md)
 
 ## 🏃‍♂️‍➡️ OUR GOAL
 - It targets developers who are building domains that experience large-scale traffic, such as ticketing.
